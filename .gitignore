@@ -1,0 +1,14 @@
+.DS_Store
+.env*
+*.key
+*.pem
+*.sqlite*
+*.db
+config.json
+openai-api-key.txt
+private-backups/
+.vercel/
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
